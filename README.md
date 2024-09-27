@@ -1,4 +1,4 @@
-<h1>Anime Jotter</h1>
+<h1>Anime Finder</h1>
 <p align="center">
   
   <img src=".github/animeFinder.gif">
